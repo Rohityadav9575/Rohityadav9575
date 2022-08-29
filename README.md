@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Rohityadav9575
+- 👋 Hi, I’m Rohit yadav
 - 👀 I’m interested in Android app development
 - 🌱 I’m currently learning java 
-- 💞️ I’m looking to collaborate on app development
+- 💞️ I’m looking to collaborate on app development projects
 - 📫 How to reach me ry651621@gmail.com
 
 <!---
