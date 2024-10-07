@@ -11,9 +11,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohityadav9575&label=Profile%20views&color=0e75b6&style=flat" alt="rohityadav9575" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohityadav9575" alt="rohityadav9575" /></a> </p>
 
-- 🌱 I’m currently learning **Android**
+- 🌱 I’m currently learning **DEVOPS**
 
-- 💬 Ask me about **Android, Data Structure, Algorithm**
+- 💬 Ask me about **Android development, Data Structure, Algorithm**
 
 - 📫 How to reach me **rohit.yadav.coder@gmail.com**
 
